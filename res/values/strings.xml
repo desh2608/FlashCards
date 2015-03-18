@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flash cards</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flash">Flash Game</string>
+    <string name="reset">Reset</string>
+	<string name="about">About</string>
+	<string name="hs">High Score</string>
+	<string name="easy">Easy:2 sec intervals</string>
+	<string name="med">Average:1.5 sec intervals</string>
+	<string name="diff">Difficult:1 sec intervals</string>
+	<string name="exit">Exit</string>
+	<string name="time">Time delay between boxes:</string>
+	<string name="equal">Easy: equality</string>
+	<string name="factor">Difficult: common factor</string>
+	<string name="aboutgame">Flash Card game, 2014, All rights reserved. Tap on the text boxes which evaluate to numbers with at least one common factor.</string>
+</resources>

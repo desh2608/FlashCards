@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.flashcards.MainActivity" >
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:numericShortcut="1"
+        android:alphabeticShortcut="a" />
+    <item
+        android:id="@+id/hs"
+        android:title="@string/hs"
+        android:numericShortcut="2"
+        android:alphabeticShortcut="h" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        android:numericShortcut="4"
+        android:alphabeticShortcut="x" />
+    
+
+</menu>
